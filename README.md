@@ -1,4 +1,4 @@
-- 👋 Hi, I’m will
+- � I’m will 
 - 👀 I’m interested in learning code
 - 🌱 I’m currently learning Kali linux, android, windows pc. and a mixture of differnt kinds of platforms and programing.
 - 💞️ I’m looking to collaborate on all i can learn
